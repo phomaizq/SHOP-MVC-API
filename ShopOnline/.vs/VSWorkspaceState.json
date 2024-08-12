@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopOnline.Data",
+    "\\ShopOnline.Data\\Infrastructure",
+    "\\ShopOnline.UnitTest",
+    "\\ShopOnline.UnitTest\\RepositoryTest",
+    "\\ShopOnline.Web",
+    "\\ShopOnline.Web\\app",
+    "\\ShopOnline.Web\\app\\shared",
+    "\\ShopOnline.Web\\App_Start",
+    "\\ShopOnline.Web\\Areas",
+    "\\ShopOnline.Web\\Areas\\Admin"
+  ],
+  "PreviewInSolutionExplorer": true
+}
